@@ -100,8 +100,8 @@ document.querySelector(".btn-hold").addEventListener("click",function () {
         document.querySelector("#score-"+ activePlayer).classList.toggle("animated");
         document.querySelector("#score-"+ activePlayer).classList.toggle("bounceIn");
         document.getElementById("score-"+ activePlayer).textContent = score[activePlayer];
-        if (score[activePlayer] >= 20){
-            if (score[0] >= 20){
+        if (score[activePlayer] >= 200){
+            if (score[0] >= 200){
                 document.querySelector(".winner-text").textContent = `${x.toUpperCase()} အနိုင်ရရှိပါသည်`;
             }else {
                 document.querySelector(".winner-text").textContent = `${y.toUpperCase()} အနိုင်ရရှိပါသည်`;
@@ -133,5 +133,4 @@ document.querySelector(".btn-hold").addEventListener("click",function () {
 
 document.querySelector("#btn-new").addEventListener('click',init);
 document.querySelector("#winner-new").addEventListener('click',init);
-
 

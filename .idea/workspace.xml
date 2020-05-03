@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f52cd-1820-46c9-9760-b16953a92043" name="Default Changelist" comment="" />
+    <list default="true" id="1d9f52cd-1820-46c9-9760-b16953a92043" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice-game-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pig-game.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,26 +20,35 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bJEmN1jT1Kgp9aGwJXdfzCPerp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\js" />
-      <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\Desktop\pig-game" />
       <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter" />
       <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\vendor" />
       <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\js" />
+      <recent name="D:\javaScript Lessons\complete-javascript-course-master\4-DOM-pig-game\starter\css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -46,17 +63,21 @@
       <updated>1588341954427</updated>
       <workItem from="1588341959217" duration="10335000" />
       <workItem from="1588481114945" duration="27577000" />
+      <workItem from="1588513062125" duration="3372000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1588481121508">
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1588513063494">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.768@0.0.1360.768" timestamp="1588481121508" />
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/0.0.1360.768@0.0.1360.768" timestamp="1588513063494" />
     <state x="336" y="172" key="run.anything.popup" timestamp="1588503404852">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
